@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation Suite">
+    <test name="PHP Travels">
+        <classes>
+            <class name="com.php.testcases.TestScripts">
+
+            </class>
+        </classes>
+
+    </test>
+</suite>
